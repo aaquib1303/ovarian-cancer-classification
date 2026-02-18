@@ -65,7 +65,6 @@ These metrics are important for medical diagnosis tasks where minimizing false n
 ### 🔹 ROC Curve
 ![ROC Curve](results/roc_curve.png)
 
-> Replace these image paths with the actual filenames from your exported report figures.
 
 ---
 
